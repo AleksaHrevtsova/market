@@ -6,4 +6,7 @@ export default {
   home: document.querySelector(".home"),
   about: document.querySelector(".about"),
   contacts: document.querySelector(".contacts"),
+
+  posts: document.querySelector('.posts'),
+  postForm: document.querySelector('.postForm')
 };
